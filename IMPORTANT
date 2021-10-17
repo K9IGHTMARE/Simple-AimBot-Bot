@@ -1,0 +1,10 @@
+HOW TO RUN THE Code
+
+
+1.First install the requirements.txt file using pip install -r Requirements.txt
+2.Run the code on idle 
+3.when the code is running in the background open Aim booster and start the training you will see that the aiming is automated
+
+Bugs and fixes
+---------------
+1.If the error win32api not found comes then restart your computer then try
