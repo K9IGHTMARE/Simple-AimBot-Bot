@@ -3,3 +3,7 @@ It is a aim bot made by me .The inspiration behind this bot was that i started p
 This aim trainer is made in python 
 
 The main library used in making this aimbot is pyautogui
+
+This autoaim bot is used to automate the aim trainers you cant use it in games 
+I dont promote hacking in games
+go and practice nerds
