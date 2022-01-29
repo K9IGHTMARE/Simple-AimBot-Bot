@@ -7,3 +7,5 @@ The main library used in making this aimbot is pyautogui
 This autoaim bot is used to automate the aim trainers you cant use it in games 
 I dont promote hacking in games
 go and practice nerds
+
+NOTHING
