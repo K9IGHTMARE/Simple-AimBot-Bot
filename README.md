@@ -8,8 +8,3 @@ This autoaim bot is used to automate the aim trainers you cant use it in games
 I dont promote hacking in games
 go and practice nerds
 
-NOTHING
-
-NOTHING
-NOTHING
-NOTHING
